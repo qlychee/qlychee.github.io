@@ -1,9 +1,16 @@
-## Welcome to GitHub Pages
+# Project Name: Mind Lounge
+Project web site
+You should create a public facing web site that includes all of your project assignments to date. We'll use this in final grading for the course; however, having this will also serve as documentation of all the hard work you did, and can be added to your personal portfolio. We recommend using Github Pages as a free (and pretty easy to use) web hosting service.
+Your project web page should include the following:
+Name of your project
+Names and contact info for all team members
+Links to all the files produced in your previous assignments (the final assignments are the most important, but you should plan on uploading the previous assignments as well)
+A link to your final prototype and project video (it's OK to link to the video on the Google shared drive)
 
 You can use the [editor on GitHub](https://github.com/qlychee/qlychee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+[Project Plan](https://github.com/qlychee/qlychee.github.io/blob/master/Qiu_Luo_GroupProjectPlan.pdf)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
