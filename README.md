@@ -1,10 +1,10 @@
 ### Project Name: Mind Lounge
 ### Team Members: 
-Elizabeth Qiu
+**Elizabeth Qiu**
 
 Email: elqi4234@colorado.edu or eqiu21@gmail.com
 
-Yuxuan Luo
+**Yuxuan Luo**
 
 Email: yulu9243@colorado.edu
 
