@@ -1,6 +1,6 @@
 ### Elizabeth Qiu
 
-Email: elqi4234@colorado.edu or eqiu21@gmail.com
+Email: eqiu21@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/elizabeth-qiu-17649215b/)
 
